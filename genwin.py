@@ -3,5 +3,5 @@ one = input("Enter your value: ")
 print(one)
 two = input("Enter your value: ")
 print(two)
-m = one + two
-print(m)
+t = one + two
+print(t)
